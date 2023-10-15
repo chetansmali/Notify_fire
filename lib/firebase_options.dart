@@ -44,35 +44,35 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAKtVX1H29FrfRKaDK4syaXX9ejs8QO4fU',
-    appId: '1:931471609537:web:f66c283f86de13b4cd0e40',
-    messagingSenderId: '931471609537',
+    apiKey: '404',
+    appId: '500',
+    messagingSenderId: '0',
     projectId: 'notify-4c3d6',
     authDomain: 'notify-4c3d6.firebaseapp.com',
     storageBucket: 'notify-4c3d6.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD-8zuWDomJAyYB_f9zYXYzn2XHz7u8ukg',
-    appId: '1:931471609537:android:eac79ebc93442ccfcd0e40',
-    messagingSenderId: '931471609537',
+    apiKey: '404',
+    appId: '500',
+    messagingSenderId: '0',
     projectId: 'notify-4c3d6',
     storageBucket: 'notify-4c3d6.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDqa2v63XBlYX9F15wWdgTKLNOGECPLEhg',
-    appId: '1:931471609537:ios:06528013dbfb3bc4cd0e40',
-    messagingSenderId: '931471609537',
+    apiKey: '404',
+    appId: '500',
+    messagingSenderId: '0',
     projectId: 'notify-4c3d6',
     storageBucket: 'notify-4c3d6.appspot.com',
     iosBundleId: 'com.example.notifyFlutter',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDqa2v63XBlYX9F15wWdgTKLNOGECPLEhg',
-    appId: '1:931471609537:ios:b56b66af0615e0c6cd0e40',
-    messagingSenderId: '931471609537',
+    apiKey: '404',
+    appId: '500',
+    messagingSenderId: '0',
     projectId: 'notify-4c3d6',
     storageBucket: 'notify-4c3d6.appspot.com',
     iosBundleId: 'com.example.notifyFlutter.RunnerTests',
